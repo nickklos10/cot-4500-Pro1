@@ -7,6 +7,8 @@ To install the required libraries, run the following command:
 ```sh
 pip install -r requirements.txt
 
+
+
 - Running the Script
 
 This project consists of a single Python script called `main.py`. Follow these instructions to run the script.
