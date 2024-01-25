@@ -1,6 +1,3 @@
-# Let's modify the code to ensure that all four functions print their results.
-
-
 def root_two():
   x0 = 1.5
   tol = 0.000001
